@@ -1,21 +1,19 @@
-## Hi there 👋
-<div class="piktowrapper-embed" data-uid="b8e88f0aba74-desarollo-de-software-programador"></div><script>(function(d){var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];if (d.getElementById(id)) { return;}js=d.createElement("script"); js.id=id; js.async=true;js.src="https://create.piktochart.com/assets/embedding/embed.js";ref.parentNode.insertBefore(js, ref);}(document));</script>
-I am Cristhian Susano
 
-🎓 University student passionate about backend development with Python 🐍 and data analysis 📊. Knowledgeable in databases 💾, React ⚛️, JavaScript 💻, and Node.js 🌐.
-Always learning 📚 and eager to build projects that solve real-world problems 🌟. Let’s grow! 🚀
+  <img src="https://i.ibb.co/rd4hwrm/desarollo-de-so-1737652668.png" alt="desarrollo de software">
+  
+  <h1>Hi, I am Cristhian Arley Susano Fernandez</h1>
+  
+  <p>
+  🎓 University student passionate about:
+</p>
+<ul>
+  <li>Python 🐍 and data analysis 📊</li>
+  <li>Databases 💾</li>
+  <li>React ⚛️</li>
+  <li>JavaScript 💻</li>
+  <li>Node.js 🌐</li>
+</ul>
+<p>
+  Always learning 📚 and eager to build projects that solve real-world problems 🌟.
+</p>
 
-<!--
-**CristhianArleySusanoFernandez/CristhianArleySusanoFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
