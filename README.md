@@ -1,4 +1,9 @@
 ## Hi there 👋
+<div class="piktowrapper-embed" data-uid="b8e88f0aba74-desarollo-de-software-programador"></div><script>(function(d){var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];if (d.getElementById(id)) { return;}js=d.createElement("script"); js.id=id; js.async=true;js.src="https://create.piktochart.com/assets/embedding/embed.js";ref.parentNode.insertBefore(js, ref);}(document));</script>
+I am Cristhian Susano
+
+🎓 University student passionate about backend development with Python 🐍 and data analysis 📊. Knowledgeable in databases 💾, React ⚛️, JavaScript 💻, and Node.js 🌐.
+Always learning 📚 and eager to build projects that solve real-world problems 🌟. Let’s grow! 🚀
 
 <!--
 **CristhianArleySusanoFernandez/CristhianArleySusanoFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
