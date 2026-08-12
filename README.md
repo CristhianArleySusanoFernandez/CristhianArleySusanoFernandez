@@ -9,6 +9,7 @@
 <ul>
   <li>Python 🐍 and data analysis 📊</li>
   <li>Databases 💾</li>
+  <li>AI Solutions 🤖</li>
   <li>React ⚛️</li>
   <li>JavaScript 💻</li>
   <li>Node.js 🌐</li>
